@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Docs'
-copyright = '2023, Henry.Moon'
+project = 'TTA CHAMP 컨소시엄 - 자료실'
+copyright = '2023, TTA Academy'
 author = 'Henry.Moon'
 
 release = '0.1'
