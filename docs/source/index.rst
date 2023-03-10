@@ -9,7 +9,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
    
    tutorial/A/a_1.md
    tutorial/A/a_2.md
