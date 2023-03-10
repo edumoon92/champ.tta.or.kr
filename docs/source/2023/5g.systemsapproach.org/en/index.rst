@@ -1,10 +1,4 @@
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Private 5G: A Sytems Approach
-   :glob:
-
-   /2023/5g.systemsapproach.org/en/preface.rst
+:doc:/preface.rst
    /2023/5g.systemsapproach.org/en/intro.rst
    /2023/5g.systemsapproach.org/en/arch.rst
    /2023/5g.systemsapproach.org/en/radio.rst
