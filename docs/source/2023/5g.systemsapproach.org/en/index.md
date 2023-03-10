@@ -1,1 +1,1 @@
-- [Prefice](preface.md)
+- [Prefice](preface.rst)
