@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'TTA CHAMP 컨소시엄 - 훈련 자료실'
+project = 'TTA CHAMP 컨소시엄'
 copyright = '2023, TTA Academy'
 author = 'Henry.Moon'
 
