@@ -11,11 +11,11 @@ Contents
 .. toctree::
    :maxdepth: 2
    
-   A/a_1.md
-   A/a_2.md
+   tutorial/A/a_1.md
+   tutorial/A/a_2.md
 
-   B/b_1.md
-   B/b_2.md
+   tutorial/B/b_1.md
+   tutorial/B/b_2.md
 
    usage
    api
