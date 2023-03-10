@@ -14,7 +14,7 @@ Contents
    api
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Private 5G: A Sytems Approach 
    :glob:
