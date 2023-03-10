@@ -19,7 +19,7 @@ Contents
    :caption: Private 5G: A Sytems Approach 
    :glob:
 
-   /2023/5g.systemsapproach.org/en/index.rst	     
+   /2023/5g.systemsapproach.org/en/index.md   
 
 
 .. toctree::
