@@ -9,6 +9,6 @@ Contents
 --------
 
 .. toctree::
-   
+   tutorial
    usage
    api
